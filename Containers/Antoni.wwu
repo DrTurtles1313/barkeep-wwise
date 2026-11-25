@@ -147,7 +147,7 @@
 								</Sound>
 							</ChildrenList>
 						</RandomSequenceContainer>
-						<RandomSequenceContainer Name="select" ID="{1EA51FDA-9161-4E39-9179-7D2BEABEBBE7}" ShortID="847307214">
+						<RandomSequenceContainer Name="ui_select" ID="{1EA51FDA-9161-4E39-9179-7D2BEABEBBE7}" ShortID="847307214">
 							<PropertyList>
 								<Property Name="Pitch" Type="int32">
 									<ModifierList>

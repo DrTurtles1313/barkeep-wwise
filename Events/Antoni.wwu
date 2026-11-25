@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F3EED263-2C9D-4787-8F29-67AABD88078A}" SchemaVersion="133">
+	<Events>
+		<WorkUnit Name="Antoni" ID="{F3EED263-2C9D-4787-8F29-67AABD88078A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="UI" ID="{2BA0B7D0-3F2A-4F3F-A8B0-3BF9A97A05C4}" ShortID="934237661">
+					<ChildrenList>
+						<Event Name="Play_ui_exit" ID="{62A85F32-E5B6-4380-AD60-F1482C5CAC9B}">
+							<ChildrenList>
+								<Action Name="" ID="{8F07DF9D-7989-4692-BC86-6F836313DFA5}" ShortID="938536858">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ui_exit" ID="{4204DF78-EE73-481E-9034-F23909F40EDF}" WorkUnitID="{338678FE-9ABA-436A-BCC1-DA82E99DB9B3}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_ui_hover" ID="{98E255BE-5FFB-4B3B-8E85-8C6BE3CC9DD2}">
+							<ChildrenList>
+								<Action Name="" ID="{01FCF7AB-8603-47B1-BFB8-8D6F15F56C89}" ShortID="41289399">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ui_hover" ID="{9D24AC05-5799-45D0-8F00-1FB89F48AC04}" WorkUnitID="{338678FE-9ABA-436A-BCC1-DA82E99DB9B3}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_ui_select" ID="{026C9666-17EA-4B9C-A2F4-7692651A6DC1}">
+							<ChildrenList>
+								<Action Name="" ID="{12EB075A-249C-4CD7-BE3A-D8F96D27B055}" ShortID="940890153">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ui_select" ID="{1EA51FDA-9161-4E39-9179-7D2BEABEBBE7}" WorkUnitID="{338678FE-9ABA-436A-BCC1-DA82E99DB9B3}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

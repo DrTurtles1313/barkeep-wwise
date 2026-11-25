@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{A6068484-FE09-4D42-A956-D0664FAAF658}" SchemaVersion="133">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{A6068484-FE09-4D42-A956-D0664FAAF658}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{A6068484-FE09-4D42-A956-D0664FAAF658}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{CBB67C1A-04CA-4511-B716-5E697849AF33}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_sfx_gun_pickup" ID="{0F0DA58A-2541-46FF-AFDB-3372E09A3586}" WorkUnitID="{90751CDA-82E4-4D3A-A39D-5E3099966295}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_ui_tankard_full" ID="{D7684412-7C7C-49EF-8237-33865C1BEA6B}" WorkUnitID="{90751CDA-82E4-4D3A-A39D-5E3099966295}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_ui_serving_error" ID="{37386426-048F-4A6A-9F56-9BFD2A42E25C}" WorkUnitID="{90751CDA-82E4-4D3A-A39D-5E3099966295}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_ui_customer_served" ID="{D5E4D611-3BCF-4AD4-ADB5-B03177980C15}" WorkUnitID="{90751CDA-82E4-4D3A-A39D-5E3099966295}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_sfx_gun_trigger" ID="{2954512E-375E-4BEB-B015-5507C31D7096}" WorkUnitID="{90751CDA-82E4-4D3A-A39D-5E3099966295}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_sfx_gun_gunshot" ID="{AF2C4C7F-DCBC-4D11-83D9-C7800DF1C7FD}" WorkUnitID="{90751CDA-82E4-4D3A-A39D-5E3099966295}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundBanks>
 </WwiseDocument>

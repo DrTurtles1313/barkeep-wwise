@@ -1,6 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{90751CDA-82E4-4D3A-A39D-5E3099966295}" SchemaVersion="133">
 	<Events>
-		<WorkUnit Name="Garett" ID="{90751CDA-82E4-4D3A-A39D-5E3099966295}" PersistMode="Standalone"/>
+		<WorkUnit Name="Garett" ID="{90751CDA-82E4-4D3A-A39D-5E3099966295}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="SFX" ID="{D59C3778-04AD-4F40-A6F0-62716B997201}" ShortID="1000688219">
+					<ChildrenList>
+						<Event Name="Play_sfx_gun_gunshot" ID="{AF2C4C7F-DCBC-4D11-83D9-C7800DF1C7FD}">
+							<ChildrenList>
+								<Action Name="" ID="{665EBA3E-BCD9-42C3-8256-05B952A27F31}" ShortID="702748619">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="sfx_gun_gunshot" ID="{1076987A-789A-4BC2-9954-3E2CAC253A75}" WorkUnitID="{43C64D4A-62C6-4518-94DE-779306A325D3}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_sfx_gun_pickup" ID="{0F0DA58A-2541-46FF-AFDB-3372E09A3586}">
+							<ChildrenList>
+								<Action Name="" ID="{E504419D-03B6-4A32-8F03-619F823C184B}" ShortID="244177515">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="sfx_gun_pickup" ID="{4F319B14-5B57-45EB-B45E-C1B8CA9561FE}" WorkUnitID="{43C64D4A-62C6-4518-94DE-779306A325D3}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_sfx_gun_trigger" ID="{2954512E-375E-4BEB-B015-5507C31D7096}">
+							<ChildrenList>
+								<Action Name="" ID="{E6E5151C-029C-4F6C-84E1-31DCF3B494FF}" ShortID="398462557">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="sfx_gun_trigger" ID="{522C31F2-150F-465C-B4C6-7A34D456DE2B}" WorkUnitID="{43C64D4A-62C6-4518-94DE-779306A325D3}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_sfx_bullet_impact" ID="{6BDE11C0-C79E-4F91-A799-3C1C45032892}">
+							<ChildrenList>
+								<Action Name="" ID="{1A2592FC-87F0-465B-9F1A-3AEC5C10532E}" ShortID="55116213">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="sfx_bullet_impact" ID="{31C747B6-E0DB-4F66-9C97-E001504BED76}" WorkUnitID="{43C64D4A-62C6-4518-94DE-779306A325D3}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Folder Name="UI" ID="{B79D5B23-FBB6-4813-AF3D-637CA5C40DC1}" ShortID="367701327">
+					<ChildrenList>
+						<Event Name="Play_ui_serving_error" ID="{37386426-048F-4A6A-9F56-9BFD2A42E25C}">
+							<ChildrenList>
+								<Action Name="" ID="{73A1932D-F1C7-4D85-B070-A59C5452C2E5}" ShortID="290319295">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ui_serving_error" ID="{1FC9840D-81D8-4337-AC0E-F151F3A191AF}" WorkUnitID="{43C64D4A-62C6-4518-94DE-779306A325D3}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_ui_customer_served" ID="{D5E4D611-3BCF-4AD4-ADB5-B03177980C15}">
+							<ChildrenList>
+								<Action Name="" ID="{142007A9-072C-4583-A3C8-9B10AA040D56}" ShortID="764432931">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ui_customer_served" ID="{DD9F9CD5-7395-411E-9A56-46E8581F8D11}" WorkUnitID="{43C64D4A-62C6-4518-94DE-779306A325D3}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_ui_tankard_full" ID="{D7684412-7C7C-49EF-8237-33865C1BEA6B}">
+							<ChildrenList>
+								<Action Name="" ID="{3BA94581-6472-487F-AA40-E21AE74F7829}" ShortID="30107835">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ui_tankard_full" ID="{B5D737E7-599B-4748-B24D-721DFF8A55A4}" WorkUnitID="{43C64D4A-62C6-4518-94DE-779306A325D3}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

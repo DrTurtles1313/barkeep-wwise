@@ -1,0 +1,289 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{CBB67C1A-04CA-4511-B716-5E697849AF33}",
+    "Language": "SFX",
+    "Hash": "{FF080E66-8547-1F95-7E99-7FE4FCC538F4}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "10072459",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ui_tankard_full\\ui_tankard_full_01.wav",
+      "CachePath": "9B/{9B210403-1178-1F7E-7BAC-2A6F03EA7C58}.wem"
+     },
+     {
+      "Id": "29008342",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "sfx_gun_gunshot\\sfx_gun_gunshot_01.wav",
+      "CachePath": "F6/{F6AD0016-FBB0-E7B0-36D3-A50207FBEF80}.wem"
+     },
+     {
+      "Id": "118265964",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ui_customer_served\\ui_customer_served_01.wav",
+      "CachePath": "6A/{6AB95F0C-03A9-C256-8A37-F570A1217E4F}.wem"
+     },
+     {
+      "Id": "204214108",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ui_serving_error\\ui_serving_error_02.wav",
+      "CachePath": "4C/{4C3D13F6-6249-18CC-8352-0A11E03B6301}.wem"
+     },
+     {
+      "Id": "240799167",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "sfx_gun_gunshot\\sfx_gun_gunshot_02.wav",
+      "CachePath": "37/{37EB2387-754F-817E-FBE2-07D38C21A156}.wem"
+     },
+     {
+      "Id": "276947234",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ui_serving_error\\ui_serving_error_01.wav",
+      "CachePath": "AE/{AE07D68B-A2F1-A023-F469-C1BBE560C1BD}.wem"
+     },
+     {
+      "Id": "334358037",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ui_tankard_full\\ui_tankard_full_03.wav",
+      "CachePath": "64/{64A9B36D-7B3E-D9F4-A038-845AF8EABC90}.wem"
+     },
+     {
+      "Id": "392205806",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "sff_gun_trigger\\sfx_gun_trigger_01.wav",
+      "CachePath": "F3/{F3134E8C-CC4A-6A2C-A001-47D41450B357}.wem"
+     },
+     {
+      "Id": "399481528",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "sff_gun_trigger\\sfx_gun_trigger_04.wav",
+      "CachePath": "E7/{E7FC81EB-9208-46A8-4B98-4AC0D58BE46A}.wem"
+     },
+     {
+      "Id": "470071159",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "sfx_gun_gunshot\\sfx_gun_gunshot_03.wav",
+      "CachePath": "38/{381C97AC-F330-840C-D4FF-92F2A619653F}.wem"
+     },
+     {
+      "Id": "472023061",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ui_customer_served\\ui_customer_served_03.wav",
+      "CachePath": "8E/{8E1F2CFF-4FF1-65E7-C58F-05145E4C6D8F}.wem"
+     },
+     {
+      "Id": "507934229",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "sfx_gun_gunshot\\sfx_gun_gunshot_04.wav",
+      "CachePath": "90/{90219ADA-103F-C2BB-8F2B-2C7CDE1921E4}.wem"
+     },
+     {
+      "Id": "545245690",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "sff_gun_trigger\\sfx_gun_trigger_03.wav",
+      "CachePath": "8B/{8BF95F11-7AF6-61C7-2344-F5703EF2BCC0}.wem"
+     },
+     {
+      "Id": "591881932",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ui_serving_error\\ui_serving_error_03.wav",
+      "CachePath": "EE/{EED93F21-E82F-1202-0A5E-C41FF2E22398}.wem"
+     },
+     {
+      "Id": "770758674",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "sff_gun_trigger\\sfx_gun_trigger_02.wav",
+      "CachePath": "56/{56A9C065-3787-5B4D-1FC6-06BEEA12BC98}.wem"
+     },
+     {
+      "Id": "946897807",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ui_customer_served\\ui_customer_served_02.wav",
+      "CachePath": "54/{54C8D9FB-50DE-2C33-1499-F538CFA453C2}.wem"
+     },
+     {
+      "Id": "975353425",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "sfx_gun_pickup.wav",
+      "CachePath": "8E/{8EE6A89F-C309-0BFA-1A0A-E9B8F68411E1}.wem"
+     },
+     {
+      "Id": "1069888041",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "ui_tankard_full\\ui_tankard_full_02.wav",
+      "CachePath": "EC/{EC2D31C4-3E4A-B03F-A29A-6681620032C1}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3954199791",
+      "Name": "Play_sfx_gun_gunshot",
+      "ObjectPath": "\\Events\\Garett\\SFX\\Play_sfx_gun_gunshot",
+      "GUID": "{AF2C4C7F-DCBC-4D11-83D9-C7800DF1C7FD}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.37753126",
+      "DurationMax": "0.45903125",
+      "MediaRefs": [
+       {
+        "Id": "29008342"
+       },
+       {
+        "Id": "240799167"
+       },
+       {
+        "Id": "470071159"
+       },
+       {
+        "Id": "507934229"
+       }
+      ]
+     },
+     {
+      "Id": "28463519",
+      "Name": "Play_sfx_gun_pickup",
+      "ObjectPath": "\\Events\\Garett\\SFX\\Play_sfx_gun_pickup",
+      "GUID": "{0F0DA58A-2541-46FF-AFDB-3372E09A3586}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.39511457",
+      "DurationMax": "0.39511457",
+      "MediaRefs": [
+       {
+        "Id": "975353425"
+       }
+      ]
+     },
+     {
+      "Id": "437222665",
+      "Name": "Play_sfx_gun_trigger",
+      "ObjectPath": "\\Events\\Garett\\SFX\\Play_sfx_gun_trigger",
+      "GUID": "{2954512E-375E-4BEB-B015-5507C31D7096}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.097625",
+      "DurationMax": "0.14834376",
+      "MediaRefs": [
+       {
+        "Id": "392205806"
+       },
+       {
+        "Id": "399481528"
+       },
+       {
+        "Id": "545245690"
+       },
+       {
+        "Id": "770758674"
+       }
+      ]
+     },
+     {
+      "Id": "2978116825",
+      "Name": "Play_ui_customer_served",
+      "ObjectPath": "\\Events\\Garett\\UI\\Play_ui_customer_served",
+      "GUID": "{D5E4D611-3BCF-4AD4-ADB5-B03177980C15}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.2040209",
+      "DurationMax": "1.4560312",
+      "MediaRefs": [
+       {
+        "Id": "118265964"
+       },
+       {
+        "Id": "472023061"
+       },
+       {
+        "Id": "946897807"
+       }
+      ]
+     },
+     {
+      "Id": "1777698194",
+      "Name": "Play_ui_serving_error",
+      "ObjectPath": "\\Events\\Garett\\UI\\Play_ui_serving_error",
+      "GUID": "{37386426-048F-4A6A-9F56-9BFD2A42E25C}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.357625",
+      "DurationMax": "1.6442395",
+      "MediaRefs": [
+       {
+        "Id": "204214108"
+       },
+       {
+        "Id": "276947234"
+       },
+       {
+        "Id": "591881932"
+       }
+      ]
+     },
+     {
+      "Id": "3327188658",
+      "Name": "Play_ui_tankard_full",
+      "ObjectPath": "\\Events\\Garett\\UI\\Play_ui_tankard_full",
+      "GUID": "{D7684412-7C7C-49EF-8237-33865C1BEA6B}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4345208",
+      "DurationMax": "1.8103958",
+      "MediaRefs": [
+       {
+        "Id": "10072459"
+       },
+       {
+        "Id": "334358037"
+       },
+       {
+        "Id": "1069888041"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{A5D3EC09-13F3-7795-BCF6-5C82D04054C1}"
+ }
+}

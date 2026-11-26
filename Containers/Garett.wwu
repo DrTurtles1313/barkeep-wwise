@@ -7,6 +7,9 @@
 					<ChildrenList>
 						<SwitchContainer Name="sfx_bullet_impact" ID="{31C747B6-E0DB-4F66-9C97-E001504BED76}" ShortID="808403924">
 							<ReferenceList>
+								<Reference Name="Attenuation">
+									<ObjectRef Name="distance" ID="{2BF0856B-D6F5-4821-855B-C264E9152BE5}" WorkUnitID="{5589D49C-B04E-4353-B941-E248D336229F}"/>
+								</Reference>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{2D0606EF-632D-4C02-B52E-933B205784B9}"/>
 								</Reference>
@@ -222,6 +225,10 @@
 									</ChildrenList>
 								</RandomSequenceContainer>
 							</ChildrenList>
+							<PositioningInfo>
+								<Panner Name="" ID="{ECD614BB-25AA-4191-84A2-008575DC5C3B}"/>
+								<Position Name="" ID="{91E3E00B-0F49-4319-9816-6B87D47872DE}"/>
+							</PositioningInfo>
 							<GroupingInfo>
 								<GroupingBehaviorList>
 									<GroupingBehavior>
